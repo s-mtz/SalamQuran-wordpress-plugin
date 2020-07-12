@@ -1,8 +1,8 @@
 <?php
 
-class Model
+class WP_SALAM_QURAN_Model
 {
-    public function __construct() {
-        
+    public function __construct()
+    {
     }
 }

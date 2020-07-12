@@ -1,14 +1,14 @@
 <?php
+
 /**
  * Website : https://salamquran.com/
  * ApiDoc : https://salamquran.com/api/v6/doc (en) || https://salamquran.com/fa/api/v6/doc (fa)
  * appkey: 1234ec8e69c19ebb7c202ae1097aa404 // SALAM_QURAN_APPKEY
  */
-class Api
+class WP_SALAM_QURAN_Api
 {
     public function __construct()
-    { 
-
+    {
     }
     /**
      * endpoint : https://salamquran.com/fa/api/v6/aya/day
